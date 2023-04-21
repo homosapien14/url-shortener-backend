@@ -1,4 +1,4 @@
 {
     "mongoURI":"mongodb+srv://swapnil:EkX14jWNhdFj81Ba@url-shortener.anqiu5s.mongodb.net/?retryWrites=true&w=majority",
-    "baseUrl":"https://url-shortener-backend-fptr.onrender.com:8081"
+    "baseUrl":"https://swapnil-url-shortener-app.onrender.com:8081"
 }
