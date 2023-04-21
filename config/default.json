@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://swapnil:EkX14jWNhdFj81Ba@url-shortener.anqiu5s.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:8081"
+}
